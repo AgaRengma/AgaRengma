@@ -1,7 +1,7 @@
 - 👋 Welcome to my profile!
 - 👀 I’m a Civil Engineer
 - 🌱 Currently into Computer Science
-- ** Cyber Security, IT support and Network Engineer
+- **  Cyber Security, IT support and Network Engineer
 - 💞️ Working on Java application and Web-development skills.
 - 📫 If interested, do think about collaboration in projects.
--  Thank you for rerading through my README...................!
+-  ###     Thank you for reading through my README..................!!!
